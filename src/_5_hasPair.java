@@ -1,3 +1,5 @@
+import java.util.HashSet;
+
 public class _5_hasPair {
 
     public static void main(String[] args) {
