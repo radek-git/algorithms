@@ -1,4 +1,4 @@
-public class _3_isPrimeNumber {
+public class _3_IsPrimeNumber {
 
     public static void main(String[] args) {
 

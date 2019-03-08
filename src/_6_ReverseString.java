@@ -1,4 +1,4 @@
-public class _6_reverseString {
+public class _6_ReverseString {
 
     public static void main(String[] args) {
         System.out.println(reverseString("ala ma kota"));

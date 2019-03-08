@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class _7_isInOrder {
+public class _7_IsInOrder {
 
     public static void main(String[] args) {
 

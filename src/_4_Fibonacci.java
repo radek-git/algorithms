@@ -1,4 +1,4 @@
-public class _4_fibonacci {
+public class _4_Fibonacci {
 
     public static void main(String[] args) {
 

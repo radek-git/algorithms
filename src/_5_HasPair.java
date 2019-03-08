@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class _5_hasPair {
+public class _5_HasPair {
 
     public static void main(String[] args) {
 

@@ -1,4 +1,4 @@
-public class _9_intervalsRRLL {
+public class _9_IntervalsRRLL {
     public static void main(String[] args) {
 
         String str = "RRRRRLLLLRLRLRLRLRLLLLRRRRRRL";

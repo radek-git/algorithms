@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class _11_bubbleSort {
+public class _11_BubbleSort {
 
     public static void main(String[] args) {
 

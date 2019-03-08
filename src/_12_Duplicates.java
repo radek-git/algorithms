@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class _12_duplicates {
+public class _12_Duplicates {
 
     public static void main(String[] args) {
 
