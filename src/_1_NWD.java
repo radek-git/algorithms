@@ -10,14 +10,15 @@ public class _1_NWD {
 
 
 
-    public static int najwiekszyWspolnyDzielnik (int a, int b){
-
-            if (a > b){
+    public static int najwiekszyWspolnyDzielnik (int a, int b) {
+        while (a != b) {
+            if (a > b)
                 a = a - b;
-            } else {
+             else
                 b = b - a;
-            }
 
-        return a;
-    }
+        }
+            return a;
+        }
+
 }
