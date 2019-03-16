@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff269e6e-f67f-419b-9bd6-206aa8bc54e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/_30_DashToCamelCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_31_Maskify.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,15 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_22_RemveFromString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/_23_Fizzbuzz.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -61,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/_26_MaxCharInString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/_28_EqualsSidesOfArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
-              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -91,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/_29_ArrayToDecimalNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,20 +90,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/_30_DashToCamelCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="153">
+              <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_31_Maskify.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_18_Abba.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="476">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -159,7 +159,6 @@
         <option value="$PROJECT_DIR$/src/Plakaty.java" />
         <option value="$PROJECT_DIR$/src/main/java/Pair.java" />
         <option value="$PROJECT_DIR$/src/main/java/Plakaty.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/_18_Abba.java" />
         <option value="$PROJECT_DIR$/src/main/java/_19_IsAnagram.java" />
         <option value="$PROJECT_DIR$/src/main/java/_20_SumOfDigits.java" />
@@ -172,7 +171,9 @@
         <option value="$PROJECT_DIR$/src/main/java/_27_Xbonacci.java" />
         <option value="$PROJECT_DIR$/src/main/java/_28_EqualsSidesOfArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/_29_ArrayToDecimalNumber.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/_30_DashToCamelCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_31_Maskify.java" />
       </list>
     </option>
   </component>
@@ -231,7 +232,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552741854175" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552741939166" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lekcja1/src/main/java/zestawObowiazkowy" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -322,7 +323,7 @@
       <workItem from="1552254778785" duration="10915000" />
       <workItem from="1552339622619" duration="14446000" />
       <workItem from="1552595549841" duration="808000" />
-      <workItem from="1552663717081" duration="5242000" />
+      <workItem from="1552663717081" duration="6018000" />
     </task>
     <task id="LOCAL-00001" summary="NWW">
       <created>1551654050274</created>
@@ -569,11 +570,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552739147453</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="DashToCamelCase">
+      <created>1552741921258</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1552741921258</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38827000" />
+    <option name="totallyTimeSpent" value="39603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -614,7 +622,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="reverseString" />
     <MESSAGE value="isInOrder" />
     <MESSAGE value="randomNumberBetween" />
     <MESSAGE value="intervalsRRLL" />
@@ -639,7 +646,8 @@
     <MESSAGE value="Xbonacci" />
     <MESSAGE value="EqualsSidesOfArray" />
     <MESSAGE value="ArrayToDecimalNumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayToDecimalNumber" />
+    <MESSAGE value="DashToCamelCase" />
+    <option name="LAST_COMMIT_MESSAGE" value="DashToCamelCase" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -805,13 +813,6 @@
     <entry file="file://$PROJECT_DIR$/pla.in" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Pair.java" />
     <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/Temp2_oi15-etap1.zip/etap1/pla/prog/pla6.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Plakaty.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/_2_NWW.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -905,7 +906,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/_26_MaxCharInString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -922,24 +923,38 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/_28_EqualsSidesOfArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/_29_ArrayToDecimalNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/_30_DashToCamelCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="153">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_31_Maskify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
         </state>
       </provider>
     </entry>
