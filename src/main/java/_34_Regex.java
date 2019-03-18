@@ -24,18 +24,6 @@ public class _34_Regex {
         System.out.println(matcher.results().map(MatchResult::group).collect(Collectors.toSet()).contains(""));;
 
 
-//        String fileContenets = new String(Files.readAllBytes(Paths.get("text.txt")));
-//        System.out.println(fileContenets);
-//
-//        Pattern pattern = Pattern.compile("\\w+");
-//
-//        Matcher matcher = pattern.matcher(fileContenets);
-//
-//        matcher.results().forEach(matchResult -> System.out.println(matchResult.group()));
-//
-//        matcher.results().map(MatchResult::group).forEach(System.out::println);
-//
-//        matcher.results().map(MatchResult::group).collect(Collectors.toSet()).contains("aaa");
 
     }
 }
