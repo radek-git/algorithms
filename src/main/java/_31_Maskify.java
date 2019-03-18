@@ -2,7 +2,7 @@ public class _31_Maskify {
 
     public static void main(String[] args) {
 
-        String s = "23";
+        String s = "5555555555523";
 
         System.out.println(maskify(s));
     }

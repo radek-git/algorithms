@@ -4,8 +4,7 @@ public class _30_DashToCamelCase {
 
 
     public static void main(String[] args) {
-
-        String str = "the-stealth-warrior";
+        String str = "the- stealth -    warrior";
 
         System.out.println(toCamelCase(str));
     }
@@ -13,15 +12,8 @@ public class _30_DashToCamelCase {
 
 
     static String toCamelCase(String s){
-        String str = WordUtils.capitalize(s.replace('-', ' '));
-        String[] words = str.split(" ");
-        StringBuilder sb = new StringBuilder();
+        String str = WordUtils.capitalize(s.replace("-", " ")).replace(" ", "");
 
-        for (int i = 0; i < words.length ; i++) {
-            sb.append(words[i]);
-        }
-
-        return sb.toString();
-
+        return str;
     }
 }

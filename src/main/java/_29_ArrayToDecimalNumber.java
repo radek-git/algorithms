@@ -1,3 +1,4 @@
+import java.text.DecimalFormat;
 import java.util.Map;
 
 import static java.util.Map.entry;
@@ -6,11 +7,12 @@ public class _29_ArrayToDecimalNumber {
 
     public static void main(String[] args) {
 
-        int[] array = {1,1, 1, 1,};
+        int[] array = {1,1, 1, 1};
 
         String number = arrayToString(array);
 
         System.out.println(toDec(2, number));
+
 
 
     }
