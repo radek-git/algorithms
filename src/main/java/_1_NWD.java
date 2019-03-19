@@ -6,6 +6,8 @@ public class _1_NWD {
         int b = 94;
 
         System.out.println(najwiekszyWspolnyDzielnik(a, b));
+
+
     }
 
 
@@ -20,5 +22,7 @@ public class _1_NWD {
         }
             return a;
         }
+
+
 
 }

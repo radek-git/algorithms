@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff269e6e-f67f-419b-9bd6-206aa8bc54e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/_39_IsPalindromeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -72,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/_39_IsPalindromeNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -81,14 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_32_FindOutlier.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_1_NWD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="374">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -237,7 +233,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553034672078" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553038372333" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lekcja1/src/main/java/zestawObowiazkowy" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -258,16 +254,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._37_DigitCount">
-    <configuration name="_29_ArrayToDecimalNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_29_ArrayToDecimalNumber" />
+  <component name="RunManager" selected="Application._1_NWD">
+    <configuration name="_1_NWD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_1_NWD" />
       <module name="algorytmy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_30_DashToCamelCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_30_DashToCamelCase" />
+    <configuration name="_29_ArrayToDecimalNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_29_ArrayToDecimalNumber" />
       <module name="algorytmy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -296,11 +292,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._1_NWD" />
         <item itemvalue="Application._37_DigitCount" />
         <item itemvalue="Application._29_ArrayToDecimalNumber" />
         <item itemvalue="Application._34_Regex" />
         <item itemvalue="Application._31_Maskify" />
-        <item itemvalue="Application._30_DashToCamelCase" />
       </list>
     </recent_temporary>
   </component>
@@ -332,7 +328,7 @@
       <workItem from="1552896559349" duration="4344000" />
       <workItem from="1552921191771" duration="5057000" />
       <workItem from="1552945173804" duration="917000" />
-      <workItem from="1553012299683" duration="3401000" />
+      <workItem from="1553012299683" duration="4058000" />
     </task>
     <task id="LOCAL-00001" summary="NWW">
       <created>1551654050274</created>
@@ -649,11 +645,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553034595742</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="IsPalindromeNumber">
+      <created>1553036014044</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1553036014044</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55136000" />
+    <option name="totallyTimeSpent" value="55793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -694,7 +697,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="PowIterRekur" />
     <MESSAGE value="IsPalindorme" />
     <MESSAGE value="CharFrequency" />
     <MESSAGE value="correction" />
@@ -719,7 +721,8 @@
     <MESSAGE value="ReverseNumber" />
     <MESSAGE value="DigitCount" />
     <MESSAGE value="PerfectNumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="PerfectNumber" />
+    <MESSAGE value="IsPalindromeNumber" />
+    <option name="LAST_COMMIT_MESSAGE" value="IsPalindromeNumber" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/_9_IntervalsRRLL.java">
@@ -785,13 +788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/_1_NWD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -1061,6 +1057,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_1_NWD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
