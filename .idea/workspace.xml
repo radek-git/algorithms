@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ff269e6e-f67f-419b-9bd6-206aa8bc54e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/_41_DontGiveMeFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_41_DontGiveMeFive.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -89,7 +90,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/_40_SumFirstAndLastDigit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -98,11 +99,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_41_DontGiveMeFive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="404">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/_3_isPrimeNumber.java" />
         <option value="$PROJECT_DIR$/src/_4_fibonacci.java" />
         <option value="$PROJECT_DIR$/src/_5_hasPair.java" />
@@ -176,6 +179,7 @@
         <option value="$PROJECT_DIR$/src/main/java/_39_IsPalindromeNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/_1_NWD.java" />
         <option value="$PROJECT_DIR$/src/main/java/_40_SumFirstAndLastDigit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_41_DontGiveMeFive.java" />
       </list>
     </option>
   </component>
@@ -234,7 +238,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553103724844" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553120685281" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lekcja1/src/main/java/zestawObowiazkowy" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -255,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._41_DontGiveMeFive">
+  <component name="RunManager" selected="Application._42_SpinWords">
     <configuration name="_1_NWD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1_NWD" />
       <module name="algorytmy" />
@@ -265,13 +269,6 @@
     </configuration>
     <configuration name="_29_ArrayToDecimalNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_29_ArrayToDecimalNumber" />
-      <module name="algorytmy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_34_Regex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_34_Regex" />
       <module name="algorytmy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -291,13 +288,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_42_SpinWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_42_SpinWords" />
+      <module name="algorytmy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._42_SpinWords" />
         <item itemvalue="Application._41_DontGiveMeFive" />
         <item itemvalue="Application._1_NWD" />
         <item itemvalue="Application._37_DigitCount" />
         <item itemvalue="Application._29_ArrayToDecimalNumber" />
-        <item itemvalue="Application._34_Regex" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +333,7 @@
       <workItem from="1552896559349" duration="4344000" />
       <workItem from="1552921191771" duration="5057000" />
       <workItem from="1552945173804" duration="917000" />
-      <workItem from="1553012299683" duration="5261000" />
+      <workItem from="1553012299683" duration="7643000" />
     </task>
     <task id="LOCAL-00001" summary="NWW">
       <created>1551654050274</created>
@@ -667,17 +671,24 @@
       <option name="project" value="LOCAL" />
       <updated>1553038950314</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="DontGiveMeFive">
+      <created>1553103771804</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1553103771804</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56996000" />
+    <option name="totallyTimeSpent" value="59378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21055438" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21055438" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -686,7 +697,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.35155413" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.35155413" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -712,7 +723,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CharFrequency" />
     <MESSAGE value="correction" />
     <MESSAGE value="Abba" />
     <MESSAGE value="IsAnagram" />
@@ -737,16 +747,10 @@
     <MESSAGE value="PerfectNumber" />
     <MESSAGE value="IsPalindromeNumber" />
     <MESSAGE value="SumFirstAndLastDigit" />
-    <option name="LAST_COMMIT_MESSAGE" value="SumFirstAndLastDigit" />
+    <MESSAGE value="DontGiveMeFive" />
+    <option name="LAST_COMMIT_MESSAGE" value="DontGiveMeFive" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/_10_BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/_11_BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1079,6 +1083,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_41_DontGiveMeFive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
