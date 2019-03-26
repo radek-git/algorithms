@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ff269e6e-f67f-419b-9bd6-206aa8bc54e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/_41_DontGiveMeFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_41_DontGiveMeFive.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,18 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_34_Regex.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="18" selection-start-line="12" selection-start-column="8" selection-end-line="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/_35_SumOddRange.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -99,7 +86,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/_41_DontGiveMeFive.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="404">
@@ -107,6 +94,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_42_SpinWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="20" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -129,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_3_isPrimeNumber.java" />
         <option value="$PROJECT_DIR$/src/_4_fibonacci.java" />
         <option value="$PROJECT_DIR$/src/_5_hasPair.java" />
         <option value="$PROJECT_DIR$/src/_6_reverseString.java" />
@@ -180,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/main/java/_1_NWD.java" />
         <option value="$PROJECT_DIR$/src/main/java/_40_SumFirstAndLastDigit.java" />
         <option value="$PROJECT_DIR$/src/main/java/_41_DontGiveMeFive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_42_SpinWords.java" />
       </list>
     </option>
   </component>
@@ -238,7 +234,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553120685281" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553613943175" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lekcja1/src/main/java/zestawObowiazkowy" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -333,14 +329,7 @@
       <workItem from="1552896559349" duration="4344000" />
       <workItem from="1552921191771" duration="5057000" />
       <workItem from="1552945173804" duration="917000" />
-      <workItem from="1553012299683" duration="7643000" />
-    </task>
-    <task id="LOCAL-00001" summary="NWW">
-      <created>1551654050274</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1551654050274</updated>
+      <workItem from="1553012299683" duration="9034000" />
     </task>
     <task id="LOCAL-00002" summary="NWW">
       <created>1551654163840</created>
@@ -678,11 +667,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553103771804</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="SpinWords">
+      <created>1553120711540</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1553120711542</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59378000" />
+    <option name="totallyTimeSpent" value="60769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -697,7 +693,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4968017" visible="true" weight="0.35155413" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4968017" weight="0.35155413" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -723,7 +719,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="correction" />
     <MESSAGE value="Abba" />
     <MESSAGE value="IsAnagram" />
     <MESSAGE value="SumOfDigits" />
@@ -748,16 +743,10 @@
     <MESSAGE value="IsPalindromeNumber" />
     <MESSAGE value="SumFirstAndLastDigit" />
     <MESSAGE value="DontGiveMeFive" />
-    <option name="LAST_COMMIT_MESSAGE" value="DontGiveMeFive" />
+    <MESSAGE value="SpinWords" />
+    <option name="LAST_COMMIT_MESSAGE" value="SpinWords" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/_11_BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/_12_Duplicates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1093,6 +1082,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_42_SpinWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>
