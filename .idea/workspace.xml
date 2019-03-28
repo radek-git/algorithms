@@ -15,15 +15,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_35_SumOddRange.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/_36_ReverseNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -44,7 +35,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/_24_NumberSystemConversion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-374">
+            <state relative-caret-position="34">
               <caret line="2" column="3" selection-start-line="2" selection-end-line="2" selection-end-column="34" />
             </state>
           </provider>
@@ -71,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/_1_NWD.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
+            <state relative-caret-position="153">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
@@ -89,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/_41_DontGiveMeFive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="459">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,11 +89,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/_42_SpinWords.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+              <caret line="17" column="20" selection-start-line="8" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_43_AreaCalculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -125,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_4_fibonacci.java" />
         <option value="$PROJECT_DIR$/src/_5_hasPair.java" />
         <option value="$PROJECT_DIR$/src/_6_reverseString.java" />
         <option value="$PROJECT_DIR$/src/_7_isInOrder.java" />
@@ -176,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/main/java/_40_SumFirstAndLastDigit.java" />
         <option value="$PROJECT_DIR$/src/main/java/_41_DontGiveMeFive.java" />
         <option value="$PROJECT_DIR$/src/main/java/_42_SpinWords.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_43_AreaCalculator.java" />
       </list>
     </option>
   </component>
@@ -198,7 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,12 +228,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553613943175" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553621829738" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lekcja1/src/main/java/zestawObowiazkowy" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -330,13 +330,7 @@
       <workItem from="1552921191771" duration="5057000" />
       <workItem from="1552945173804" duration="917000" />
       <workItem from="1553012299683" duration="9034000" />
-    </task>
-    <task id="LOCAL-00002" summary="NWW">
-      <created>1551654163840</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1551654163840</updated>
+      <workItem from="1553613904169" duration="715000" />
     </task>
     <task id="LOCAL-00003" summary="NWW">
       <created>1551654233292</created>
@@ -674,17 +668,24 @@
       <option name="project" value="LOCAL" />
       <updated>1553120711542</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="AreaCalculator">
+      <created>1553614024397</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1553614024397</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60769000" />
+    <option name="totallyTimeSpent" value="61484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21055438" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21268657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -719,7 +720,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Abba" />
     <MESSAGE value="IsAnagram" />
     <MESSAGE value="SumOfDigits" />
     <MESSAGE value="LongestBlock" />
@@ -744,19 +744,10 @@
     <MESSAGE value="SumFirstAndLastDigit" />
     <MESSAGE value="DontGiveMeFive" />
     <MESSAGE value="SpinWords" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpinWords" />
+    <MESSAGE value="AreaCalculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="AreaCalculator" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/_12_Duplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/Temp1_oi15-etap1.zip/etap1/pla/prog/pla10.java" />
     <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/Temp1_oi15-etap1.zip/etap1/pla/prog/pla7.java" />
     <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/Temp1_oi15-etap1.zip/etap1/pla/prog/pla8.java" />
@@ -793,17 +784,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Test.java" />
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/Temp1_oi15-etap1.zip/etap1/pla/prog/pla6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/Temp1_oi15-etap1.zip/etap1/pla/prog/pla6.java" />
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/nio/file/Files.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1026,6 +1007,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_36_ReverseNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/_37_DigitCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1035,7 +1023,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/_24_NumberSystemConversion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374">
+        <state relative-caret-position="34">
           <caret line="2" column="3" selection-start-line="2" selection-end-line="2" selection-end-column="34" />
         </state>
       </provider>
@@ -1056,15 +1044,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/_1_NWD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
+        <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/_36_ReverseNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -1077,8 +1058,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/_41_DontGiveMeFive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="459">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1088,7 +1069,14 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/_42_SpinWords.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+          <caret line="17" column="20" selection-start-line="8" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_43_AreaCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
         </state>
       </provider>
     </entry>
