@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff269e6e-f67f-419b-9bd6-206aa8bc54e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/_46_Ean13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,33 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_36_ReverseNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_37_DigitCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/_24_NumberSystemConversion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="3" selection-start-line="2" selection-end-line="2" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/_38_PerfectNumber.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,11 +72,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/_43_AreaCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_44_DecimalComparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_45_MinutesToDaysYears.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/_46_Ean13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -125,9 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_5_hasPair.java" />
-        <option value="$PROJECT_DIR$/src/_6_reverseString.java" />
-        <option value="$PROJECT_DIR$/src/_7_isInOrder.java" />
         <option value="$PROJECT_DIR$/src/_8_RandomNumberBetween.java" />
         <option value="$PROJECT_DIR$/src/_9_intervalsRRLL.java" />
         <option value="$PROJECT_DIR$/src/_10_binarySearch.java" />
@@ -176,6 +174,9 @@
         <option value="$PROJECT_DIR$/src/main/java/_41_DontGiveMeFive.java" />
         <option value="$PROJECT_DIR$/src/main/java/_42_SpinWords.java" />
         <option value="$PROJECT_DIR$/src/main/java/_43_AreaCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_44_DecimalComparator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_45_MinutesToDaysYears.java" />
+        <option value="$PROJECT_DIR$/src/main/java/_46_Ean13.java" />
       </list>
     </option>
   </component>
@@ -198,6 +199,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -228,13 +230,12 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553803640839" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553896568379" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lekcja1/src/main/java/zestawObowiazkowy" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -331,20 +332,7 @@
       <workItem from="1552945173804" duration="917000" />
       <workItem from="1553012299683" duration="9034000" />
       <workItem from="1553613904169" duration="715000" />
-    </task>
-    <task id="LOCAL-00003" summary="NWW">
-      <created>1551654233292</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1551654233292</updated>
-    </task>
-    <task id="LOCAL-00004" summary="isPrimeNumber">
-      <created>1551736975554</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1551736975554</updated>
+      <workItem from="1553803557057" duration="813000" />
     </task>
     <task id="LOCAL-00005" summary="hasPair">
       <created>1551827374228</created>
@@ -675,17 +663,31 @@
       <option name="project" value="LOCAL" />
       <updated>1553614024397</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="DecimalComparator">
+      <created>1553803635634</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1553803635634</updated>
+    </task>
+    <task id="LOCAL-00053" summary="MinutesToDaysYears">
+      <created>1553803731448</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1553803731448</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61484000" />
+    <option name="totallyTimeSpent" value="62297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21268657" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21481876" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -720,8 +722,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="IsAnagram" />
-    <MESSAGE value="SumOfDigits" />
     <MESSAGE value="LongestBlock" />
     <MESSAGE value="RemoveFromString" />
     <MESSAGE value="FizzBuzz" />
@@ -745,12 +745,11 @@
     <MESSAGE value="DontGiveMeFive" />
     <MESSAGE value="SpinWords" />
     <MESSAGE value="AreaCalculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="AreaCalculator" />
+    <MESSAGE value="DecimalComparator" />
+    <MESSAGE value="MinutesToDaysYears" />
+    <option name="LAST_COMMIT_MESSAGE" value="MinutesToDaysYears" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/Temp1_oi15-etap1.zip/etap1/pla/prog/pla10.java" />
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/Temp1_oi15-etap1.zip/etap1/pla/prog/pla7.java" />
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/Temp1_oi15-etap1.zip/etap1/pla/prog/pla8.java" />
     <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/Temp1_oi15-etap1.zip/etap1/pla/prog/pla9.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/_17_CharFrequency.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1076,7 +1075,28 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/_43_AreaCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_44_DecimalComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_45_MinutesToDaysYears.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/_46_Ean13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
