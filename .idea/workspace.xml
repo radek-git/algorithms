@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff269e6e-f67f-419b-9bd6-206aa8bc54e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/_47_CompareStringBySumOfChars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -188,8 +187,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-4" />
-    <option name="y" value="-4" />
+    <option name="x" value="-5" />
+    <option name="y" value="-5" />
     <option name="width" value="861" />
     <option name="height" value="474" />
   </component>
@@ -233,9 +232,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554070834166" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554106797450" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lekcja1/src/main/java/zestawObowiazkowy" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -332,14 +332,7 @@
       <workItem from="1552945173804" duration="917000" />
       <workItem from="1553012299683" duration="9034000" />
       <workItem from="1553613904169" duration="715000" />
-      <workItem from="1553803557057" duration="1465000" />
-    </task>
-    <task id="LOCAL-00006" summary="hasPair">
-      <created>1551827451801</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1551827451801</updated>
+      <workItem from="1553803557057" duration="1490000" />
     </task>
     <task id="LOCAL-00007" summary="reverseString">
       <created>1551827618300</created>
@@ -677,11 +670,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553896965331</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="CompareStringBySumOfChars">
+      <created>1554106808764</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1554106808764</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62949000" />
+    <option name="totallyTimeSpent" value="62974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -722,7 +722,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="RemoveFromString" />
     <MESSAGE value="FizzBuzz" />
     <MESSAGE value="NumberSystemConversion" />
     <MESSAGE value="MinCharInString" />
@@ -747,7 +746,8 @@
     <MESSAGE value="DecimalComparator" />
     <MESSAGE value="MinutesToDaysYears" />
     <MESSAGE value="Ean13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ean13" />
+    <MESSAGE value="CompareStringBySumOfChars" />
+    <option name="LAST_COMMIT_MESSAGE" value="CompareStringBySumOfChars" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/_17_CharFrequency.java">
